@@ -1,0 +1,9 @@
+Package: pacotin
+Title: Trying to make your life easier
+Version: 0.0.0.9000
+Authors@R: person("Luiz", "Passos", email = "luizfcpassos@gmail.com", role = c("aut", "cre"))
+Description: Some magic
+Depends: R (>= 3.4.4)
+License: GNU
+Encoding: UTF-8
+LazyData: true
