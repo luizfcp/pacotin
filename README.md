@@ -3,10 +3,9 @@
 
 ## Overview
 
-**PT:** Funções que acho úteis e não acho prontas em pacotes.
+**PT:** Funções que achei úteis e não encontrei prontas em pacotes.
 
-**EN:** Functions that I find useful and I don't find ready in packages.
-
+**EN:** Functions that I found useful and didn't find ready in packages.
 
 ## Installation
 
