@@ -7,6 +7,12 @@
 
 **EN:** Functions that I found useful and didn't find ready in packages.
 
+---
+
+R/pacotin is an package with R functions that are useful to me.
+
+---
+
 ## Installation
 
 ``` r
