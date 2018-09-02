@@ -9,7 +9,7 @@
 
 ---
 
-R/pacotin is an package with R functions that are useful to me.
+**R/pacotin** is an package with R functions that are useful to me.
 
 ---
 
