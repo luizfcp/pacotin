@@ -1,6 +1,10 @@
 
 # pacotin <img src="man/figures/logo.png" align="right" />
 
+
+<span style="color:red">some **DEPRECATED** text</span>
+
+
 ## Overview
 
 **PT:** Funções que achei úteis e não encontrei prontas em pacotes.
