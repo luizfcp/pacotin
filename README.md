@@ -2,7 +2,7 @@
 # pacotin <img src="man/figures/logo.png" align="right" />
 
 
-<p>DEPRECATED <span style="color:blue">some <em>blue</em> text</span>.</p>
+<span style="color:red">**_DEPRECATED_**</span>
 
 
 ## Overview
